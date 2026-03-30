@@ -240,7 +240,7 @@ The hardest part of this problem is not the modelling. It is the base rate. At 4
 </svg>
 </td>
 <td style="padding:2px 0 20px 10px">
-<code>bankruptcy_dashboard.html</code> &nbsp;·&nbsp; <a href="https://sanamjummani.github.io/Corporate-Bankruptcy-Early-Warning/" style="color:#EF4444;font-size:13px">Live →</a><br/>
+<code>index.html</code> &nbsp;·&nbsp; <a href="https://sanamjummani.github.io/Corporate-Bankruptcy-Early-Warning/" style="color:#EF4444;font-size:13px">Live →</a><br/>
 <span style="color:#6B7A99;font-size:13px">Interactive risk dashboard — distribution histogram, portfolio tier breakdown, live threshold simulator, 8,000-firm heatmap, firm-by-firm screener with CSV export, and detail panel for each company. Fully self-contained HTML, no server required.</span>
 </td>
 </tr>
@@ -273,7 +273,7 @@ The hardest part of this problem is not the modelling. It is the base rate. At 4
 </svg>
 </td>
 <td style="padding:2px 0 20px 10px">
-<code>bankruptcy_risk_scores.csv</code><br/>
+<code>submission_file.csv</code><br/>
 <span style="color:#6B7A99;font-size:13px">The Kaggle submission file. 8,000 rows — one per test firm — with predicted bankruptcy probability scores. This is the output that placed 3rd on the private leaderboard with AUC 0.9231.</span>
 </td>
 </tr>
